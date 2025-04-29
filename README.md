@@ -3,7 +3,7 @@
 ## Acesse a Plataforma Online
 
 **Acesse FreelanceHub diretamente pelo link:**
-### [https://freelancehub.replit.app](https://freelancehub.replit.app)
+### https://social-sage-edielopx.replit.app
 
 Não é necessário instalação! Basta acessar o link acima para começar a usar.
 
